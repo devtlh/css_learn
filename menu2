@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="tr-TR">
+    <head>
+        <meta charset="utf-8">
+        <title>Dev Talha</title>
+        <style>
+            ul{
+                list-style: none;
+            }
+            li{
+                width: 90px;
+                padding: 5px;
+                border-radius: 5px;
+                background-color: green;
+                margin: 5px;
+                float: left;
+                position: absolute;
+                text-align: center;
+            }
+
+            li:hover{
+                background-color: greenyellow;
+            }
+
+            a:link{
+                text-decoration: none;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                color: azure;
+            }
+
+
+
+        </style>
+    </head>
+
+<body>
+    <ul>
+        <li><a href="#">Ana Sayfa</a></li>
+        <li><a href="#">Ürünlerimiz</a></li>
+        <li><a href="#">Biz Kimiz?</a></li>
+        <li><a href="#">İletişim</a></li>
+    </ul>
+    
+	
+</body>
+</html>
